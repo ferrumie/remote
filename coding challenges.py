@@ -7,7 +7,7 @@
 
 food = ['rice', 'noodles', 'chicken', 'plantain', 'egg']
 print(food)
-food.append('fish')
+food.append('yam')
 print(food)
 print(food[2])
 food.insert(3,'tacos')
